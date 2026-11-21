@@ -1,0 +1,306 @@
+id_intervencion,fecha,localidad,entorno,horas_gestion,profesionales_asignados,beneficiarios_impactados,cumplimiento_meta_pct
+GESI-001,2026-04-17,Ciudad Bolívar,Institucional,14.1,3,209.0,78.0
+GESI-002,2026-10-02,Usme,Educativo,8.5,3,145.0,77.7
+GESI-003,2026-04-21,Ciudad Bolívar,Laboral,6.6,4,,84.5
+GESI-004,2026-03-17,Kennedy,Institucional,7.3,2,115.0,81.1
+GESI-005,2026-07-12,Suba,Institucional,7.8,2,102.0,79.4
+GESI-006,2026-01-25,Ciudad Bolívar,Educativo,17.3,2,219.0,81.5
+GESI-007,2026-04-17,Usme,Laboral,4.5,2,102.0,80.6
+GESI-008,2026-05-06,Ciudad Bolívar,Laboral,14.8,3,202.0,88.4
+GESI-009,2026-08-07,Bosa,Institucional,12.0,3,229.0,81.8
+GESI-010,2026-04-02,Usme,Educativo,7.3,2,108.0,77.0
+GESI-011,2026-04-14,Kennedy,Comunitario,9.6,4,520.0,93.5
+GESI-012,2026-06-05,Suba,Comunitario,6.6,1,83.0,71.8
+GESI-013,2026-05-15,Ciudad Bolívar,Laboral,13.0,1,154.0,71.7
+GESI-014,2026-06-03,Usme,Comunitario,3.5,4,119.0,84.8
+GESI-015,2026-09-19,Bosa,Laboral,2.1,2,84.0,81.3
+GESI-016,2026-10-25,Usme,Laboral,13.3,3,208.0,81.6
+GESI-017,2026-07-15,Engativá,Laboral,5.5,1,83.0,75.0
+GESI-018,2026-10-08,Bosa,Comunitario,3.3,5,147.0,73.7
+GESI-019,2026-06-14,Kennedy,Laboral,9.1,5,218.0,85.0
+GESI-020,2026-01-26,Suba,Institucional,2.9,4,106.0,82.9
+GESI-021,2026-09-14,Kennedy,Educativo,18.0,2,242.0,83.4
+GESI-022,2026-08-28,Ciudad Bolívar,Educativo,2.5,1,50.0,77.7
+GESI-023,2026-02-22,Usme,Laboral,12.4,2,181.0,84.4
+GESI-024,2026-03-04,Engativá,Educativo,9.9,1,144.0,82.5
+GESI-025,2026-06-23,Bosa,Comunitario,14.1,4,215.0,81.9
+GESI-026,2026-07-11,Bosa,Comunitario,7.9,4,173.0,79.8
+GESI-027,2026-10-02,Usme,Educativo,4.8,5,132.0,69.6
+GESI-028,2026-07-13,Engativá,Comunitario,19.7,2,292.0,86.6
+GESI-029,2026-06-28,Usme,Educativo,17.1,5,280.0,94.5
+GESI-030,2026-02-24,Ciudad Bolívar,Educativo,17.5,2,232.0,80.8
+GESI-031,2026-02-28,Kennedy,Educativo,6.5,5,178.0,78.0
+GESI-032,2026-09-05,Bosa,Laboral,2.7,3,87.0,79.0
+GESI-033,2026-05-15,Ciudad Bolívar,Educativo,7.5,3,194.0,84.9
+GESI-034,2026-05-19,Kennedy,Laboral,,3,159.0,84.0
+GESI-035,2026-01-25,Ciudad Bolívar,Educativo,7.9,3,151.0,74.3
+GESI-036,2026-06-20,Engativá,Educativo,16.9,1,,99.2
+GESI-037,2026-10-05,Bosa,Educativo,6.9,3,124.0,72.2
+GESI-038,2026-04-03,Usme,Comunitario,19.4,4,285.0,89.8
+GESI-039,2026-01-18,Usme,Laboral,10.2,4,175.0,80.9
+GESI-040,2026-09-03,Kennedy,Laboral,17.2,1,189.0,76.7
+GESI-041,2026-09-26,Suba,Educativo,5.5,3,150.0,78.1
+GESI-042,2026-02-26,Engativá,Educativo,9.4,3,160.0,80.8
+GESI-043,2026-04-06,Kennedy,Comunitario,14.6,3,219.0,81.4
+GESI-044,2026-09-25,Suba,Comunitario,4.5,5,97.0,81.2
+GESI-045,2026-02-08,Ciudad Bolívar,Comunitario,4.4,2,57.0,73.0
+GESI-046,2026-07-29,Engativá,Laboral,19.5,5,356.0,87.0
+GESI-047,2026-03-26,Ciudad Bolívar,Laboral,14.9,2,221.0,77.6
+GESI-048,2026-02-23,Bosa,Laboral,2.7,3,112.0,80.5
+GESI-049,2026-01-06,Engativá,Educativo,9.2,3,187.0,75.0
+GESI-050,2026-02-27,Suba,Laboral,9.8,5,186.0,84.0
+GESI-051,2026-04-20,Bosa,Institucional,15.4,5,328.0,94.1
+GESI-052,2026-09-21,Usme,Institucional,6.5,2,157.0,75.5
+GESI-053,2026-07-14,Suba,Comunitario,5.3,4,123.0,82.7
+GESI-054,2026-08-10,Kennedy,Laboral,3.5,2,15.0,62.4
+GESI-055,2026-02-17,Usme,Institucional,9.7,5,199.0,84.7
+GESI-056,2026-06-15,Usme,Comunitario,14.4,5,268.0,87.7
+GESI-057,2026-07-25,Kennedy,Laboral,3.0,1,42.0,72.2
+GESI-058,2026-10-01,Engativá,Educativo,18.5,5,307.0,84.6
+GESI-059,2026-10-02,Usme,Institucional,10.0,1,120.0,73.3
+GESI-060,2026-08-07,Suba,Educativo,6.3,4,168.0,89.3
+GESI-061,2026-09-13,Bosa,Laboral,3.7,2,82.0,81.5
+GESI-062,2026-07-13,Usme,Institucional,5.3,2,121.0,81.8
+GESI-063,2026-10-27,Suba,Laboral,18.8,1,270.0,92.7
+GESI-064,2026-08-05,Ciudad Bolívar,Educativo,13.5,2,150.0,84.2
+GESI-065,2026-07-31,Suba,Institucional,11.3,5,209.0,82.3
+GESI-066,2026-08-29,Bosa,Educativo,13.8,3,206.0,84.0
+GESI-067,2026-02-26,Suba,Laboral,,1,192.0,75.4
+GESI-068,2026-10-11,Kennedy,Laboral,15.1,2,220.0,84.2
+GESI-069,2026-08-09,Bosa,Educativo,2.9,1,71.0,80.7
+GESI-070,2026-09-13,Engativá,Institucional,12.2,1,123.0,74.9
+GESI-071,2026-07-11,Ciudad Bolívar,Educativo,4.9,3,116.0,82.8
+GESI-072,2026-02-14,Kennedy,Laboral,4.2,5,162.0,81.3
+GESI-073,2026-06-10,Engativá,Educativo,8.2,1,135.0,72.1
+GESI-074,2026-01-19,Suba,Laboral,3.7,2,94.0,70.7
+GESI-075,2026-03-10,Bosa,Educativo,3.7,4,117.0,82.4
+GESI-076,2026-01-13,Ciudad Bolívar,Institucional,7.6,1,111.0,80.2
+GESI-077,2026-05-13,Kennedy,Institucional,19.6,1,216.0,84.9
+GESI-078,2026-05-20,Engativá,Educativo,5.2,3,97.0,75.1
+GESI-079,2026-03-08,Engativá,Educativo,2.3,5,123.0,79.3
+GESI-080,2026-05-23,Ciudad Bolívar,Institucional,15.7,4,245.0,90.7
+GESI-081,2026-03-26,Suba,Laboral,16.5,2,249.0,94.0
+GESI-082,2026-06-16,Ciudad Bolívar,Institucional,8.2,4,181.0,89.7
+GESI-083,2026-10-20,Engativá,Laboral,10.4,2,191.0,84.6
+GESI-084,2026-09-22,Usme,Educativo,13.7,5,275.0,87.5
+GESI-085,2026-08-23,Kennedy,Educativo,2.9,2,76.0,75.8
+GESI-086,2026-02-14,Ciudad Bolívar,Laboral,19.1,3,580.0,92.6
+GESI-087,2026-02-01,Engativá,Educativo,18.0,3,292.0,92.1
+GESI-088,2026-05-19,Suba,Laboral,6.7,3,123.0,84.7
+GESI-089,2026-07-24,Engativá,Comunitario,2.3,3,74.0,85.5
+GESI-090,2026-09-29,Suba,Institucional,18.8,4,295.0,88.6
+GESI-091,2026-02-06,Ciudad Bolívar,Comunitario,,5,212.0,94.9
+GESI-092,2026-02-21,Suba,Laboral,11.7,2,199.0,89.1
+GESI-093,2026-03-07,Bosa,Institucional,14.3,2,194.0,82.4
+GESI-094,2026-08-08,Bosa,Laboral,13.1,3,239.0,93.4
+GESI-095,2026-10-24,Bosa,Institucional,19.0,3,274.0,96.7
+GESI-096,2026-04-13,Usme,Institucional,19.0,1,256.0,84.8
+GESI-097,2026-06-25,Ciudad Bolívar,Institucional,17.6,5,305.0,99.0
+GESI-098,2026-08-06,Engativá,Institucional,13.5,4,213.0,89.6
+GESI-099,2026-02-08,Engativá,Laboral,16.4,2,232.0,97.3
+GESI-100,2026-08-19,Usme,Institucional,14.2,1,196.0,80.9
+GESI-101,2026-04-15,Suba,Institucional,12.3,1,164.0,79.2
+GESI-102,2026-05-15,Usme,Comunitario,4.3,2,58.0,63.7
+GESI-103,2026-09-18,Suba,Educativo,16.6,4,309.0,93.5
+GESI-104,2026-01-09,Suba,Educativo,16.8,1,222.0,86.7
+GESI-105,2026-08-10,Kennedy,Comunitario,13.3,1,160.0,77.9
+GESI-106,2026-09-16,Engativá,Comunitario,16.8,5,327.0,91.4
+GESI-107,2026-10-14,Bosa,Laboral,13.7,4,250.0,80.1
+GESI-108,2026-07-30,Suba,Laboral,5.7,1,60.0,80.0
+GESI-109,2026-01-19,Kennedy,Laboral,6.9,4,132.0,76.4
+GESI-110,2026-02-15,Engativá,Comunitario,5.9,2,102.0,92.3
+GESI-111,2026-07-02,Bosa,Comunitario,8.8,3,166.0,80.2
+GESI-112,2026-03-08,Suba,Institucional,2.7,1,64.0,70.5
+GESI-113,2026-08-23,Suba,Laboral,13.1,5,268.0,85.8
+GESI-114,2026-09-02,Usme,Laboral,8.1,2,145.0,72.6
+GESI-115,2026-02-25,Usme,Laboral,13.8,4,267.0,90.2
+GESI-116,2026-04-10,Engativá,Educativo,8.9,2,146.0,77.6
+GESI-117,2026-08-14,Bosa,Institucional,14.3,1,173.0,87.2
+GESI-118,2026-08-23,Suba,Laboral,8.1,4,169.0,79.9
+GESI-119,2026-08-29,Engativá,Laboral,6.7,3,133.0,85.8
+GESI-120,2026-05-27,Engativá,Laboral,10.9,2,110.0,81.1
+GESI-121,2026-06-24,Ciudad Bolívar,Educativo,14.5,1,180.0,82.1
+GESI-122,2026-02-02,Usme,Educativo,8.3,5,197.0,91.0
+GESI-123,2026-02-09,Bosa,Comunitario,18.9,4,289.0,94.0
+GESI-124,2026-01-17,Suba,Institucional,2.7,2,54.0,88.3
+GESI-125,2026-06-13,Engativá,Comunitario,9.5,2,170.0,79.3
+GESI-126,2026-07-10,Suba,Institucional,19.4,3,267.0,88.2
+GESI-127,2026-09-04,Ciudad Bolívar,Educativo,11.9,3,212.0,92.0
+GESI-128,2026-03-31,Bosa,Laboral,9.6,5,176.0,74.0
+GESI-129,2026-10-15,Engativá,Comunitario,12.2,5,297.0,96.4
+GESI-130,2026-03-11,Suba,Laboral,12.4,1,162.0,83.0
+GESI-131,2026-06-23,Usme,Comunitario,15.2,1,193.0,78.4
+GESI-132,2026-02-18,Ciudad Bolívar,Educativo,4.3,5,167.0,74.3
+GESI-133,2026-03-07,Bosa,Educativo,6.5,5,159.0,77.2
+GESI-134,2026-05-18,Ciudad Bolívar,Educativo,12.4,4,253.0,75.4
+GESI-135,2026-10-15,Usme,Comunitario,17.6,3,273.0,85.8
+GESI-136,2026-02-01,Bosa,Institucional,12.1,1,161.0,83.8
+GESI-137,2026-04-22,Ciudad Bolívar,Comunitario,6.3,3,125.0,76.0
+GESI-138,2026-02-17,Kennedy,Institucional,14.2,3,251.0,93.7
+GESI-139,2026-10-17,Usme,Comunitario,15.3,5,279.0,96.9
+GESI-140,2026-05-12,Usme,Comunitario,6.3,4,157.0,86.8
+GESI-141,2026-08-23,Usme,Educativo,8.8,2,154.0,81.4
+GESI-142,2026-07-13,Kennedy,Laboral,11.6,4,214.0,72.6
+GESI-143,2026-08-17,Kennedy,Laboral,10.9,4,214.0,80.7
+GESI-144,2026-10-14,Suba,Institucional,9.0,3,159.0,79.9
+GESI-145,2026-05-05,Engativá,Laboral,7.4,4,160.0,76.2
+GESI-146,2026-04-30,Ciudad Bolívar,Comunitario,3.8,1,39.0,71.9
+GESI-147,2026-08-25,Suba,Comunitario,3.0,3,97.0,84.5
+GESI-148,2026-09-20,Ciudad Bolívar,Educativo,19.3,1,212.0,75.9
+GESI-149,2026-07-21,Engativá,Educativo,17.2,2,249.0,95.7
+GESI-150,2026-05-21,Kennedy,Laboral,8.4,3,149.0,84.4
+GESI-151,2026-06-18,Engativá,Institucional,19.2,2,275.0,89.7
+GESI-152,2026-08-17,Kennedy,Laboral,14.2,3,201.0,79.8
+GESI-153,2026-08-26,Engativá,Laboral,10.7,5,172.0,77.1
+GESI-154,2026-06-25,Suba,Laboral,10.9,4,195.0,74.9
+GESI-155,2026-06-05,Bosa,Laboral,3.5,5,109.0,85.9
+GESI-156,2026-06-13,Suba,Comunitario,3.7,2,41.0,80.4
+GESI-157,2026-04-10,Ciudad Bolívar,Institucional,12.8,4,242.0,79.1
+GESI-158,2026-08-25,Suba,Comunitario,12.0,3,233.0,82.8
+GESI-159,2026-07-03,Usme,Institucional,5.8,4,124.0,80.4
+GESI-160,2026-04-27,Ciudad Bolívar,Educativo,19.0,1,244.0,84.8
+GESI-161,2026-02-25,Engativá,Laboral,16.1,4,258.0,77.6
+GESI-162,2026-09-29,Ciudad Bolívar,Comunitario,4.0,1,52.0,70.2
+GESI-163,2026-10-26,Bosa,Institucional,18.8,4,312.0,100.0
+GESI-164,2026-04-27,Kennedy,Educativo,19.5,1,274.0,85.3
+GESI-165,2026-04-15,Engativá,Educativo,19.9,2,256.0,86.2
+GESI-166,2026-04-27,Ciudad Bolívar,Laboral,3.0,5,127.0,72.7
+GESI-167,2026-03-26,Engativá,Institucional,15.3,3,266.0,90.7
+GESI-168,2026-07-10,Engativá,Comunitario,11.8,4,229.0,85.8
+GESI-169,2026-04-27,Engativá,Laboral,14.7,5,285.0,85.3
+GESI-170,2026-01-06,Kennedy,Comunitario,19.4,3,317.0,84.6
+GESI-171,2026-05-14,Suba,Educativo,14.4,3,257.0,94.2
+GESI-172,2026-08-12,Engativá,Comunitario,17.1,1,246.0,78.4
+GESI-173,2026-02-27,Usme,Comunitario,17.6,2,250.0,89.2
+GESI-174,2026-08-16,Bosa,Laboral,17.1,2,233.0,74.8
+GESI-175,2026-08-17,Kennedy,Comunitario,9.7,5,209.0,87.5
+GESI-176,2026-05-10,Ciudad Bolívar,Laboral,6.0,2,96.0,81.3
+GESI-177,2026-05-14,Kennedy,Educativo,9.1,4,,84.7
+GESI-178,2026-02-26,Ciudad Bolívar,Laboral,18.1,2,247.0,85.7
+GESI-179,2026-06-25,Kennedy,Laboral,4.6,5,153.0,88.1
+GESI-180,2026-08-10,Ciudad Bolívar,Institucional,11.2,2,157.0,92.0
+GESI-181,2026-06-13,Engativá,Comunitario,6.2,4,142.0,77.9
+GESI-182,2026-07-21,Suba,Educativo,12.5,1,165.0,78.7
+GESI-183,2026-09-08,Ciudad Bolívar,Laboral,17.5,5,330.0,92.7
+GESI-184,2026-07-26,Ciudad Bolívar,Educativo,17.8,1,224.0,82.5
+GESI-185,2026-07-07,Usme,Institucional,6.3,1,123.0,75.1
+GESI-186,2026-05-07,Ciudad Bolívar,Comunitario,18.3,1,178.0,79.2
+GESI-187,2026-09-16,Usme,Laboral,12.7,3,236.0,94.3
+GESI-188,2026-10-25,Bosa,Comunitario,8.3,3,182.0,86.0
+GESI-189,2026-10-11,Engativá,Institucional,14.7,1,214.0,81.9
+GESI-190,2026-04-12,Usme,Institucional,10.7,5,174.0,69.3
+GESI-191,2026-07-21,Suba,Educativo,8.8,4,200.0,75.6
+GESI-192,2026-09-01,Engativá,Laboral,14.7,4,247.0,89.0
+GESI-193,2026-05-28,Usme,Educativo,6.5,2,58.0,63.3
+GESI-194,2026-04-11,Engativá,Institucional,7.9,5,213.0,85.7
+GESI-195,2026-07-24,Engativá,Comunitario,9.8,3,203.0,78.2
+GESI-196,2026-05-08,Engativá,Educativo,,1,55.0,74.1
+GESI-197,2026-07-10,Bosa,Educativo,9.3,2,151.0,80.4
+GESI-198,2026-09-20,Suba,Comunitario,12.3,4,250.0,87.3
+GESI-199,2026-06-01,Kennedy,Educativo,15.3,3,,85.7
+GESI-200,2026-09-13,Kennedy,Comunitario,15.8,3,262.0,85.3
+GESI-201,2026-05-31,Usme,Laboral,16.8,1,161.0,77.1
+GESI-202,2026-06-01,Engativá,Comunitario,15.4,4,273.0,90.6
+GESI-203,2026-07-22,Usme,Laboral,14.3,5,257.0,91.2
+GESI-204,2026-05-12,Bosa,Comunitario,6.3,3,152.0,74.0
+GESI-205,2026-02-12,Bosa,Institucional,9.2,1,134.0,78.7
+GESI-206,2026-05-13,Ciudad Bolívar,Institucional,10.6,5,217.0,85.4
+GESI-207,2026-09-28,Bosa,Laboral,3.5,4,128.0,79.5
+GESI-208,2026-06-04,Ciudad Bolívar,Laboral,11.5,3,188.0,83.4
+GESI-209,2026-10-29,Suba,Institucional,9.9,5,208.0,81.9
+GESI-210,2026-04-13,Usme,Laboral,16.4,5,275.0,89.7
+GESI-211,2026-09-24,Suba,Comunitario,19.6,5,610.0,92.4
+GESI-212,2026-09-13,Bosa,Comunitario,12.0,3,210.0,84.7
+GESI-213,2026-05-28,Suba,Institucional,7.8,3,130.0,81.2
+GESI-214,2026-04-26,Suba,Educativo,2.8,2,65.0,79.3
+GESI-215,2026-03-05,Suba,Comunitario,18.6,4,302.0,80.9
+GESI-216,2026-01-06,Bosa,Laboral,18.5,1,194.0,87.7
+GESI-217,2026-09-15,Engativá,Educativo,,5,128.0,80.2
+GESI-218,2026-05-24,Suba,Educativo,14.5,2,203.0,78.0
+GESI-219,2026-02-10,Ciudad Bolívar,Comunitario,3.4,1,69.0,78.6
+GESI-220,2026-06-13,Bosa,Comunitario,5.0,2,112.0,75.5
+GESI-221,2026-01-13,Suba,Educativo,5.9,3,90.0,74.7
+GESI-222,2026-08-25,Engativá,Educativo,7.3,5,192.0,80.3
+GESI-223,2026-04-13,Bosa,Institucional,19.9,1,251.0,88.2
+GESI-224,2026-05-31,Kennedy,Laboral,14.5,1,173.0,77.6
+GESI-225,2026-07-31,Engativá,Institucional,8.9,1,111.0,81.9
+GESI-226,2026-05-15,Ciudad Bolívar,Comunitario,15.3,1,219.0,83.9
+GESI-227,2026-06-05,Suba,Institucional,18.5,1,246.0,84.6
+GESI-228,2026-02-27,Kennedy,Institucional,19.3,2,269.0,91.7
+GESI-229,2026-05-04,Kennedy,Institucional,3.0,5,131.0,77.1
+GESI-230,2026-06-14,Bosa,Institucional,9.1,3,184.0,87.0
+GESI-231,2026-04-30,Kennedy,Laboral,3.9,3,99.0,81.5
+GESI-232,2026-03-20,Ciudad Bolívar,Laboral,8.0,3,151.0,73.4
+GESI-233,2026-04-27,Ciudad Bolívar,Educativo,5.1,3,140.0,84.9
+GESI-234,2026-04-18,Usme,Comunitario,13.6,2,192.0,75.5
+GESI-235,2026-09-15,Ciudad Bolívar,Institucional,9.0,4,194.0,88.8
+GESI-236,2026-08-19,Engativá,Educativo,6.1,5,152.0,90.3
+GESI-237,2026-04-26,Kennedy,Educativo,6.8,1,90.0,80.4
+GESI-238,2026-04-13,Ciudad Bolívar,Educativo,8.5,4,172.0,70.7
+GESI-239,2026-06-06,Bosa,Laboral,6.7,3,146.0,85.1
+GESI-240,2026-07-17,Usme,Institucional,10.2,4,221.0,96.0
+GESI-241,2026-06-16,Kennedy,Institucional,2.6,5,123.0,76.7
+GESI-242,2026-07-31,Usme,Comunitario,7.0,1,69.0,74.4
+GESI-243,2026-06-22,Kennedy,Institucional,9.4,1,145.0,73.7
+GESI-244,2026-06-14,Bosa,Institucional,12.9,5,299.0,91.5
+GESI-245,2026-03-13,Usme,Educativo,6.9,5,175.0,88.0
+GESI-246,2026-10-20,Suba,Comunitario,4.4,3,69.0,78.1
+GESI-247,2026-10-08,Engativá,Institucional,3.4,1,63.0,89.9
+GESI-248,2026-05-19,Engativá,Laboral,18.9,4,299.0,90.1
+GESI-249,2026-07-18,Kennedy,Institucional,9.5,2,148.0,71.7
+GESI-250,2026-05-12,Suba,Educativo,12.5,2,207.0,84.7
+GESI-251,2026-02-06,Usme,Laboral,18.5,5,342.0,80.7
+GESI-252,2026-06-29,Suba,Educativo,3.5,3,111.0,74.7
+GESI-253,2026-01-26,Suba,Institucional,17.8,2,247.0,94.6
+GESI-254,2026-08-30,Usme,Laboral,11.9,1,186.0,84.0
+GESI-255,2026-06-11,Bosa,Comunitario,5.0,5,117.0,78.7
+GESI-256,2026-02-11,Suba,Comunitario,9.4,4,169.0,90.4
+GESI-257,2026-08-22,Suba,Laboral,16.0,5,269.0,86.6
+GESI-258,2026-02-24,Bosa,Laboral,10.6,4,199.0,89.6
+GESI-259,2026-09-25,Suba,Educativo,19.7,5,338.0,93.2
+GESI-260,2026-10-14,Suba,Laboral,8.8,5,191.0,84.6
+GESI-261,2026-01-31,Suba,Educativo,15.5,5,256.0,81.0
+GESI-262,2026-08-18,Engativá,Institucional,9.1,4,203.0,81.1
+GESI-263,2026-10-08,Ciudad Bolívar,Educativo,16.9,4,270.0,81.0
+GESI-264,2026-10-17,Bosa,Laboral,12.2,5,239.0,85.5
+GESI-265,2026-04-11,Suba,Laboral,3.1,2,85.0,77.6
+GESI-266,2026-10-15,Engativá,Institucional,2.7,3,87.0,70.2
+GESI-267,2026-05-31,Bosa,Laboral,4.4,3,108.0,87.4
+GESI-268,2026-01-08,Kennedy,Laboral,2.2,3,103.0,78.3
+GESI-269,2026-02-08,Kennedy,Comunitario,,4,116.0,78.0
+GESI-270,2026-07-15,Suba,Comunitario,14.5,4,265.0,91.5
+GESI-271,2026-02-22,Engativá,Institucional,11.6,2,187.0,78.3
+GESI-272,2026-01-21,Engativá,Educativo,15.5,3,284.0,89.8
+GESI-273,2026-06-25,Bosa,Comunitario,18.4,3,284.0,85.3
+GESI-274,2026-08-12,Bosa,Educativo,12.5,5,254.0,94.7
+GESI-275,2026-06-11,Engativá,Laboral,15.1,4,277.0,83.2
+GESI-276,2026-02-19,Bosa,Comunitario,15.6,3,243.0,86.5
+GESI-277,2026-01-10,Engativá,Institucional,8.8,2,128.0,80.2
+GESI-278,2026-04-13,Ciudad Bolívar,Institucional,6.3,2,101.0,78.7
+GESI-279,2026-08-25,Engativá,Institucional,5.7,3,112.0,74.6
+GESI-280,2026-02-10,Kennedy,Comunitario,6.5,4,129.0,74.1
+GESI-281,2026-10-11,Bosa,Educativo,6.9,2,126.0,75.6
+GESI-282,2026-07-04,Engativá,Laboral,5.7,5,145.0,82.3
+GESI-283,2026-04-09,Engativá,Educativo,17.8,2,,86.2
+GESI-284,2026-04-13,Bosa,Educativo,15.6,1,202.0,87.4
+GESI-285,2026-07-11,Ciudad Bolívar,Laboral,2.8,1,51.0,75.8
+GESI-286,2026-04-30,Ciudad Bolívar,Laboral,6.8,4,166.0,69.7
+GESI-287,2026-07-14,Bosa,Comunitario,2.4,3,71.0,76.0
+GESI-288,2026-09-14,Usme,Comunitario,11.0,4,218.0,95.8
+GESI-289,2026-06-14,Bosa,Comunitario,10.6,4,234.0,92.2
+GESI-290,2026-09-17,Bosa,Comunitario,17.0,4,284.0,91.0
+GESI-291,2026-05-12,Ciudad Bolívar,Comunitario,7.5,4,145.0,74.4
+GESI-292,2026-01-22,Ciudad Bolívar,Laboral,16.7,5,277.0,90.9
+GESI-293,2026-10-12,Bosa,Educativo,19.4,5,317.0,94.8
+GESI-294,2026-08-15,Bosa,Comunitario,3.6,2,,73.1
+GESI-295,2026-02-27,Bosa,Comunitario,16.3,1,192.0,84.4
+GESI-296,2026-03-03,Ciudad Bolívar,Educativo,12.6,4,227.0,92.7
+GESI-297,2026-06-27,Bosa,Comunitario,10.6,2,158.0,76.2
+GESI-298,2026-10-11,Bosa,Educativo,9.6,1,137.0,73.8
+GESI-299,2026-04-28,Suba,Educativo,16.1,3,273.0,91.7
+GESI-300,2026-10-19,Usme,Laboral,13.5,5,247.0,88.8
+GESI-006,2026-01-25,Ciudad Bolívar,Educativo,17.3,2,219.0,81.5
+GESI-021,2026-09-14,Kennedy,Educativo,18.0,2,242.0,83.4
+GESI-046,2026-07-29,Engativá,Laboral,19.5,5,356.0,87.0
+GESI-101,2026-04-15,Suba,Institucional,12.3,1,164.0,79.2
+GESI-151,2026-06-18,Engativá,Institucional,19.2,2,275.0,89.7
