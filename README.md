@@ -10,7 +10,6 @@ El propósito principal es demostrar cómo la automatización en Python permite 
 
 ## Video de Sustentación
 * **Ver en YouTube:** [https://youtu.be/mNnCz-jmmC8](https://youtu.be/mNnCz-jmmC8)
-* Referencia también disponible en la carpeta `video/`.
 
 ## Estructura del Repositorio
 ```text
